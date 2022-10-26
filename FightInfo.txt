@@ -1,0 +1,55 @@
+Choose battle type:
+1. Battle 1vs1
+2. Battle 2vs2
+ 1
+Choose attacker droid:
+1. Tanker
+2. IronFist
+3. Kerry
+4. Vivacious
+ 1
+Choose defender droid:
+1. Tanker
+2. IronFist
+3. Kerry
+4. Vivacious
+ 4
+Vivacious was hit by 19,2 damage Hp left = 70,8% Stamina = 80
+Tanker was hit by 20,0 damage Hp left = 180,0% Stamina = 30
+Vivacious was hit by 14,6 damage Hp left = 56,2% Stamina = 70
+Vivacious healed! Hp left = 69,2%
+Tanker was hit by 19,7 damage Hp left = 160,3% Stamina = 20
+Vivacious was hit by 20,7 damage Hp left = 48,5% Stamina = 60
+Tanker was hit by 15,3 damage Hp left = 145,0% Stamina = 10
+Tanker is tired!
+Vivacious was hit by 1,8 damage Hp left = 46,7% Stamina = 50
+Vivacious healed! Hp left = 57,7%
+Tanker was hit by 16,5 damage Hp left = 128,5% Stamina = 20
+Attack to Vivacious missed!
+Tanker was hit by 28,0 damage Hp left = 100,5% Stamina = 10
+Tanker is tired!
+Vivacious was hit by 2,0 damage Hp left = 55,7% Stamina = 30
+Vivacious healed! Hp left = 67,7%
+Tanker was hit by 24,0 damage Hp left = 76,5% Stamina = 20
+Vivacious was hit by 15,0 damage Hp left = 52,7% Stamina = 20
+Vivacious healed! Hp left = 65,7%
+Tanker was hit by 24,0 damage Hp left = 52,5% Stamina = 10
+Tanker is tired!
+Vivacious was hit by 2,0 damage Hp left = 63,7% Stamina = 10
+Vivacious is tired!
+Tanker was hit by 1,0 damage Hp left = 51,5% Stamina = 20
+Attack to Vivacious missed!
+Tanker was hit by 18,0 damage Hp left = 33,5% Stamina = 10
+Tanker is tired!
+Vivacious was hit by 2,0 damage Hp left = 61,7% Stamina = 10
+Vivacious is tired!
+Tanker was hit by 1,0 damage Hp left = 32,5% Stamina = 20
+Vivacious was hit by 15,0 damage Hp left = 46,7% Stamina = 20
+Tanker was hit by 26,0 damage Hp left = 6,5% Stamina = 10
+Tanker is tired!
+Vivacious was hit by 2,0 damage Hp left = 44,7% Stamina = 10
+Vivacious is tired!
+Tanker was hit by 1,0 damage Hp left = 5,5% Stamina = 20
+Attack to Vivacious missed!
+Tanker was hit by 25,0 damage Hp left = -19,5% Stamina = 10
+Vivacious won!!!
